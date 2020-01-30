@@ -7,7 +7,7 @@ A simple text based personal kanban system written in Markdown.
 
 ### Yearly
 
-### Monthly
+### [Monthly](https://github.com/YJPL/personal-kanban/blob/master/Monthly.edit)
 
 ### [Weekly](https://github.com/YJPL/personal-kanban/blob/master/Weekly.write)
 
