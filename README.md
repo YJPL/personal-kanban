@@ -9,7 +9,7 @@ A simple text based personal kanban system written in Markdown.
 
 ### Monthly
 
-### Weekly
+### [Weekly](https://github.com/YJPL/personal-kanban/blob/master/Weekly.write)
 
 ### Daily
 
