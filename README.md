@@ -5,7 +5,7 @@ A simple text based personal kanban system written in Markdown.
 
 5 .txt files — you can use these in any text editor that renders Markdown.
 
-### Yearly
+### [Yearly](https://github.com/YJPL/personal-kanban/blob/master/Yearly.txt)
 
 ### [Monthly](https://github.com/YJPL/personal-kanban/blob/master/Monthly.edit)
 
