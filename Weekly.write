@@ -5,25 +5,25 @@
 - [x] Start with the current week todo items
 - [x] List all the steps you need to complete your yearly and monthly goals here
 - [x] You list every step with just enough detail as to what needs to be done
-- [x] check each step that is done with an `x`
-- [ ] if a goal is not completed by the end of this week, put it back on top for next week
-- [ ] if a goal ends up uncomplete for many weeks, assess its urgency
+- [x] Check each step that is done with an `x`
+- [ ] If a goal is not completed by the end of this week, put it back on top for next week
+- [ ] If a goal ends up uncomplete for many weeks, assess its urgency
 
 
 #done
 ## 20/01 ->  26/01/2020
-- [x] this is an item from the previous week
-- [x] another step from the previous week
+- [x] This is an item from the previous week
+- [x] Another step from the previous week
 ## 13/01 ->  19/01/2020
-- [x] completed task from the week earlier
-- [x] that
-- [x] this
+- [x] Completed task from the week earlier
+- [x] That
+- [x] This
 
 ## 06/01 ->  12/01/2020
-- [x] that
-- [x] this
+- [x] That
+- [x] This
 
 ## 01/01 ->  05/01/2020
-- [x] slow start
-- [ ] this
-- [ ] that
+- [x] Slow start
+- [ ] This
+- [ ] That
