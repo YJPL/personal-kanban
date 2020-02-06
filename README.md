@@ -14,3 +14,5 @@ A simple text based personal kanban system written in Markdown.
 ### [Daily](https://github.com/YJPL/personal-kanban/blob/master/Daily.note)
 
 ### [Personal Kanban](https://github.com/YJPL/personal-kanban/blob/master/Personal%20Kanban.note)
+
+![Personal Kanban screenshot](https://raw.githubusercontent.com/YJPL/personal-kanban/9429e1dab6e03d85c7be0012a4bc2f95e8ad1d8f/Personal-Kanban-screenshot.png)
