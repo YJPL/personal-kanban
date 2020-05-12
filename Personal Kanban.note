@@ -20,12 +20,6 @@ You may or may not use a summary (or pull these goals from Yearly.txt )
 #todo 
 ## To Do list
 
-	Use a simple list like:
-
-- [ ] to do
-- [ ] doing
-- [x] done
-
 ([file transclusion](https://en.wikipedia.org/wiki/Transclusion) needed, sources must be in the library for content blocks to work)
 
 /Yearly.txt
@@ -33,6 +27,12 @@ You may or may not use a summary (or pull these goals from Yearly.txt )
 /Monthly.edit
 
 /Weekly.write
+
+	in addition use a simple list like:
+
+- [ ] to do
+- [ ] doing
+- [x] done
 
 ### Learning
 - [ ] Learn this
