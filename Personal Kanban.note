@@ -1,18 +1,11 @@
 {{TOC}}
 
-# Personal Kanban
 
-- [ ] to do
-- [ ] doing
-- [x] done
-
-Simple
-
-# Goals 2020: 
+# 2020 goals: 
 
 You may or may not use a summary (or pull these goals from Yearly.txt )
 
-# 2020 Kanban
+# Personal Kanban
 | To Do | Doing | Done |
 |:--|:--|:--|
 | This | Series 02 | Series 01 |
@@ -27,24 +20,30 @@ You may or may not use a summary (or pull these goals from Yearly.txt )
 #todo 
 ## To Do list
 
-(file transclusion needded)
+	Use a simple list like:
+
+- [ ] to do
+- [ ] doing
+- [x] done
+
+([file transclusion](https://en.wikipedia.org/wiki/Transclusion) needed, sources must be in the library for content blocks to work)
 
 /Yearly.txt
 
-/Monthly.txt
+/Monthly.edit
 
-/Weekly.txt
+/Weekly.write
 
 ### Learning
-- Learn this
-- Learn that
+- [ ] Learn this
+- [ ] Learn that
 
 
 ### Series
-- 01
-- 02
-- 03
-- Your imagination is the limit here
+- [ ] 01
+- [ ] 02
+- [ ] 03
+- [ ] Your imagination is the limit here
 
 
 ### Prospects
@@ -104,7 +103,7 @@ Also known as **Must Should Could Won’t**
 
 # Annex
 
-Use this to keep notes & ideas / keep it simple
+Use this to keep back-burner notes & ideas / keep it simple
   
 
        

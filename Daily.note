@@ -5,6 +5,11 @@ Parkinson's law
 
 #todo 
 
+	Use a simple list like:
+
+- [ ] to do
+- [ ] doing
+- [x] done
 - [ ] List your todo list items for today :-)
 - [ ] List every little task that you need to perform today in order to be happier tomorrow
 - [ ] Don’t take this to seriously, write it so that it is useful to you
@@ -12,6 +17,9 @@ Parkinson's law
 ***
 
 #done
+
+	List tasks that are completed:
+
 - [x] This
 - [x] That
 - [x] These 
