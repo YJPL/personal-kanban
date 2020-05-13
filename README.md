@@ -26,5 +26,8 @@ This is where you have an overview of your projects and their progress:
 |  | etc. |  |
 |  |  |  |
 
+## Screenshot 
+in use with [iA Writer](https://ia.net/writer)
+
 ![Personal Kanban screenshot](https://raw.githubusercontent.com/YJPL/personal-kanban/master/Personal-Kanban-screenshot.png)
 
