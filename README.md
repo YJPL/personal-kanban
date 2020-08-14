@@ -1,4 +1,4 @@
-# personal-kanban
+# 看板 personal-kanban
 A simple text based personal kanban system written in Markdown.
 
 ## Table of content:
