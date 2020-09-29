@@ -12,7 +12,7 @@ List your yearly goals.
 List your monthly goals.
 
 ### [Weekly](https://github.com/YJPL/personal-kanban/blob/master/Weekly.write)
-List your weekly tasks.
+Divide projects in smaller tasks or steps. List your weekly tasks.
 
 ### [Daily](https://github.com/YJPL/personal-kanban/blob/master/Daily.note)
 Follow and list your daily tasks, these are the logical steps needed to achieve your weekly tasks.
