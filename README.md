@@ -1,5 +1,6 @@
 # 看板 personal-kanban
 Personal Kanban is a simple text-based personal kanban system written in Markdown.
+
 Schedule and prioritize tasks to tackle productivity management without the need for a cloud-based app.
 
 ## Table of content:
