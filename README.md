@@ -5,7 +5,7 @@ Schedule and prioritize tasks to tackle productivity without the need for a clou
 
 ## Table of content:
 
-5 .txt files — you can use these in any text editor that renders Markdown.
+5 .txt files — you can use these with any text editor that renders Markdown.
 
 ### [Yearly](https://github.com/YJPL/personal-kanban/blob/master/Yearly.txt)
 List your yearly goals.
