@@ -1,14 +1,14 @@
 #todo 
 # Yearly
 
-## 2021 Goals
+## 2022 Goals
 - [ ] Goal 01
 - [ ] Goal 02
 - [ ] Implement this personal Kanban
 - [ ] List things you want to do
 - [ ] etc. (this is a list of goals, don’t go into the details here)
 
-## 2020 Goals (postponed)
+## 2021 Goals (postponed)
 - [ ] Should have done this big project
 
 #done
