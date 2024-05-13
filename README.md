@@ -1,4 +1,4 @@
-# :hourglass_flowing_sand: 看板 personal-kanban
+# :hourglass_flowing_sand: 看板 Personal Kanban
 Personal Kanban is a simple text-based personal kanban system written in Markdown.
 
 Schedule and prioritize tasks to tackle productivity without the need for a cloud-based time management app.
