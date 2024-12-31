@@ -31,4 +31,4 @@ This is where you have an overview of your projects and their progress:
 ## Screenshot 
 in use with [iA Writer](https://ia.net/writer)
 
-![Personal-Kanban-screenshot](https://user-images.githubusercontent.com/26725821/232406082-b028e318-6129-4d47-aeec-56f402240b81.png)
+![Personal-Kanban-screenshot](https://raw.githubusercontent.com/YJPL/personal-kanban/refs/heads/master/Personal-Kanban-screenshot.png)
