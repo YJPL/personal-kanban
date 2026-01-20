@@ -1,17 +1,17 @@
 #todo 
 # Yearly
 
-## 2025 Goals
+## 2026 Goals
 - [ ] Goal 01
 - [ ] Goal 02
 - [ ] Implement this personal Kanban
 - [ ] List things you want to do
 - [ ] etc. (this is a list of goals, don’t go into the details here)
 
-## 2024 Goals (postponed)
+## 2025 Goals (postponed)
 - [ ] Should have done this big project
 
 #done
-## 2024 Goals (achieved)
+## 2025 Goals (achieved)
 - [x] Did this
 - [x] Did that
