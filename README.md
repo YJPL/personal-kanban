@@ -5,7 +5,7 @@ Schedule and prioritize tasks to tackle productivity without the need for a clou
 
 ## Table of content:
 
-5 .txt files — you can use these with any text editor that renders Markdown.
+6 .txt files — you can use these with any text editor that renders Markdown.
 
 ### [Yearly](https://github.com/YJPL/personal-kanban/blob/master/Yearly.txt)
 List your yearly lofty goals.
@@ -18,6 +18,9 @@ Divide projects in smaller tasks or steps. List your weekly tasks.
 
 ### [Daily](https://github.com/YJPL/personal-kanban/blob/master/Daily.note)
 Follow and list your daily tasks, these are the logical steps needed to achieve your weekly tasks.
+
+### [Daily time box](https://github.com/YJPL/personal-kanban/blob/master/Daily_time_box.note)
+An alternative daily tasks list if you prefer time-boxing 
 
 ### [Personal Kanban](https://github.com/YJPL/personal-kanban/blob/master/Personal%20Kanban.note)
 This is where you have an overview of your projects and their progress: 
