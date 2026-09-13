@@ -20,7 +20,7 @@ Divide projects in smaller tasks or steps. List your weekly tasks.
 Follow and list your daily tasks, these are the logical steps needed to achieve your weekly tasks.
 
 ### [Daily time box](https://github.com/YJPL/personal-kanban/blob/master/Daily_time_box.note)
-An alternative daily tasks list if you prefer time-boxing 
+An alternative daily tasks list if you prefer time-boxing. 
 
 ### [Personal Kanban](https://github.com/YJPL/personal-kanban/blob/master/Personal%20Kanban.note)
 This is where you have an overview of your projects and their progress: 
