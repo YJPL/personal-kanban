@@ -23,13 +23,7 @@ Follow and list your daily tasks, these are the logical steps needed to achieve 
 An alternative daily tasks list if you prefer time-boxing. Prepare the day before.
 
 ### [Personal Kanban](https://github.com/YJPL/personal-kanban/blob/master/Personal%20Kanban.note)
-This is where you have an overview of your projects and their progress: 
-
-| To Do | Doing | Done |
-|:--|:--|:--|
-| this | that | something else |
-|  | etc. |  |
-|  |  |  |
+This is where you have an overview of your projects and their progress.
 
 ## Screenshot 
 in use with [iA Writer](https://ia.net/writer)
